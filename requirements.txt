@@ -1,7 +1,8 @@
-streamlit
-folium
-streamlit-folium
-google-generativeai
-python-dotenv
-pydantic-ai==0.0.14
-griffe>=1.0.0
+pydantic-ai==0.0.13
+pydantic==2.10.4
+streamlit==1.40.2
+requests==2.32.3
+folium==0.19.2
+streamlit-folium==0.24.0
+python-dotenv==1.0.1
+google-generativeai==0.8.3
