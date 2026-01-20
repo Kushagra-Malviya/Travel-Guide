@@ -3,4 +3,5 @@ folium
 streamlit-folium
 google-generativeai
 python-dotenv
-pydantic-ai==0.0.13
+pydantic-ai==0.0.14
+griffe>=1.0.0
