@@ -1,9 +1,9 @@
 streamlit==1.40.2
 folium==0.19.2
 streamlit-folium==0.24.0
-requests==2.32.3
-python-dotenv==1.0.1
+requests==2.32.5
+python-dotenv==1.2.1
 google-generativeai==0.8.3
-pydantic==2.10.4
-pydantic-ai==0.0.13
+pydantic==2.12.5
+pydantic-ai==1.44.0
 griffe==1.15.0
